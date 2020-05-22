@@ -1,3 +1,3 @@
 # master
-Masters thesis with the Aschauer group\n
+Masters thesis with the Aschauer group 
 2020
